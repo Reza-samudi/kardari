@@ -1,0 +1,104 @@
+*{
+  direction: rtl !important;
+}
+.sidebar {
+  margin: 0;
+  padding: 0;
+  width: 330px;
+  background-color: #f1f1f1;
+  position: fixed;
+  height: 100%;
+  overflow: auto;
+  right: 0%;
+
+
+}
+
+.sidebar a {
+  display: block;
+  color: black;
+  font-size: 18px;
+  text-decoration: none;
+  padding: 4px 16px 3px 1px;
+}
+
+.sidebar a:hover {
+  background-color: #555;
+  color: white;
+}
+.sidebar .active:hover {
+  background-color: #f1f1f1;
+  color:black;
+}
+//for the picture
+.d2{
+  width: 100px;
+  height: 100px;
+  margin: 30px auto;
+  border-radius: 50px;
+  background: url('../../assets/Pictures/mqi-5.svg') center/cover;
+
+}
+
+.d3{
+ margin-top: -4%;
+}
+
+p{
+  text-align: center;
+  font-size: medium;
+
+}
+.star {
+  display: flex;
+  margin: auto;
+  width: 90px;
+  margin-top: -3%;
+}
+.buttons{
+  border-top: 1px solid #d5c4c4;
+  border-bottom: 1px solid #d5c4c4;
+  width: 315px;
+  margin: auto;
+  margin-top: auto;
+  margin-top: 15px;
+  padding: 20px;
+  text-align: center;
+}
+.buttons button {
+  border-radius: 20px;
+}
+.border1{
+  border-bottom: 1px solid #d5c4c4;
+  width: 315px;
+  margin: auto;
+  margin-top: auto;
+  padding: 20px;
+  text-align: right;
+  color: gray;
+
+}
+.border1 img{
+  width: 30px;
+  margin-left: 5px;
+}
+h4{
+  color: #007AFF;
+  text-align: right;
+  margin: 20px;
+}
+.d4{
+  text-align: right;
+  margin: 20px;
+  color: #333333;
+}
+
+
+.btn-outline-secondary:hover {
+  color: unset;
+  background-color: unset;
+  border-color:  unset;
+}
+
+
+

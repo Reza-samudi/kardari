@@ -1,0 +1,27 @@
+<svg id="stars" xmlns="http://www.w3.org/2000/svg" width="181.334" height="34.722" viewBox="0 0 181.334 34.722">
+  <g id="mark-as-favorite-star" transform="translate(108.371)">
+    <g id="star" transform="translate(0 0)">
+      <path id="Path_20" data-name="Path 20" d="M18.275,40.661l11.294,6.811L26.581,34.627l9.969-8.639L23.408,24.861,18.275,12.75,13.142,24.861,0,25.988l9.969,8.639L6.981,47.472Z" transform="translate(0 -12.75)" fill="#007aff"/>
+    </g>
+  </g>
+  <g id="half-filled-rating-star" transform="translate(71.012)">
+    <g id="star-half" transform="translate(0 0)">
+      <path id="Path_19" data-name="Path 19" d="M0,25.988l13.389-1.128L18.62,12.75l5.23,12.111,13.39,1.128h0L27.082,34.627l3.044,12.845L18.62,40.66h0L7.113,47.471l3.044-12.845ZM18.62,37.231v-17l-3.184,7.376L7.28,28.3l6.185,5.26L11.611,41.38Z" transform="translate(0 -12.75)" fill="#007aff"/>
+    </g>
+  </g>
+  <g id="bookmark-button" transform="translate(36.413)">
+    <g id="star-outline" transform="translate(0 0)">
+      <path id="Path_18" data-name="Path 18" d="M36.55,25.988,23.408,24.861,18.275,12.75,13.142,24.861,0,25.988l9.969,8.639L6.981,47.472,18.275,40.66l11.294,6.813L26.581,34.627ZM18.275,37.231,11.4,41.38l1.82-7.824L7.146,28.3l8-.687,3.125-7.376L21.4,27.609l8,.687-6.071,5.26,1.82,7.824Z" transform="translate(0 -12.75)" fill="#007aff"/>
+    </g>
+  </g>
+  <g id="bookmark-button-2" data-name="bookmark-button">
+    <g id="star-outline-2" data-name="star-outline" transform="translate(0 0)">
+      <path id="Path_18-2" data-name="Path 18" d="M36.55,25.988,23.408,24.861,18.275,12.75,13.142,24.861,0,25.988l9.969,8.639L6.981,47.472,18.275,40.66l11.294,6.813L26.581,34.627ZM18.275,37.231,11.4,41.38l1.82-7.824L7.146,28.3l8-.687,3.125-7.376L21.4,27.609l8,.687-6.071,5.26,1.82,7.824Z" transform="translate(0 -12.75)" fill="#007aff"/>
+    </g>
+  </g>
+  <g id="mark-as-favorite-star-2" data-name="mark-as-favorite-star" transform="translate(144.784)">
+    <g id="star-2" data-name="star" transform="translate(0 0)">
+      <path id="Path_20-2" data-name="Path 20" d="M18.275,40.661l11.294,6.811L26.581,34.627l9.969-8.639L23.408,24.861,18.275,12.75,13.142,24.861,0,25.988l9.969,8.639L6.981,47.472Z" transform="translate(0 -12.75)" fill="#007aff"/>
+    </g>
+  </g>
+</svg>

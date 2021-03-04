@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="18.947" height="18" viewBox="0 0 18.947 18">
+  <g id="bookmark-button" transform="translate(0 -12.75)">
+    <g id="star-outline" transform="translate(0 12.75)">
+      <path id="Path_5" data-name="Path 5" d="M18.947,19.613l-6.812-.585L9.474,12.75,6.813,19.028,0,19.613l5.168,4.478L3.619,30.75l5.855-3.532,5.855,3.532-1.549-6.659ZM9.474,25.441,5.909,27.591l.944-4.056L3.7,20.809l4.149-.356,1.62-3.824,1.62,3.824,4.149.356L12.1,23.536l.944,4.056Z" transform="translate(0 -12.75)" fill="#007aff"/>
+    </g>
+  </g>
+</svg>
